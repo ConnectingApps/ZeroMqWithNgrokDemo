@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ConnectingApps.ZeroMqWithNgrokDemo.Publisher/ConnectingApps.ZeroMqWithNgrokDemo.Publisher.csproj" />
+  <Project Path="ConnectingApps.ZeroMqWithNgrokDemo.Subscriber/ConnectingApps.ZeroMqWithNgrokDemo.Subscriber.csproj" />
+</Solution>
