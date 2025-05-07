@@ -9,7 +9,7 @@ class Program
     {
         using var subSocket = new SubscriberSocket();
         // change this after the ngrok command
-        subSocket.Connect("tcp://5.tcp.eu.ngrok.io:10837");
+        subSocket.Connect("tcp://7.tcp.eu.ngrok.io:19499");
 
         // Subscribe to all messages (empty topic filter)
         subSocket.SubscribeToAnyTopic();
